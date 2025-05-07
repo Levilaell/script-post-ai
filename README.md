@@ -147,10 +147,12 @@ The script will:
 
 ---
 
-## License
+## 📝 License
 
-[MIT License](LICENSE)
+MIT License
 
 ---
 
-*Happy automating!*
+## ✉️ Contact
+
+Levi Lael • [linkedin.com/in/levilael](https://www.linkedin.com/in/levi-lael-939b4a1b9/)
